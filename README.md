@@ -7,6 +7,9 @@
 
 ## Proyecto
 ![logo](./public/imagenes/logo-black.png)
+
+
+### ⚙Desarrollo
   
 
 # Getting Started with Create React App

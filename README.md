@@ -37,6 +37,8 @@ Contiene todos los CSS Modules para estilizar componentes que se crearon para el
 Componentes visuales que se reutilizan en toda la aplicacion.
 
 
+### ✅Testing
+Dentro de la carpeta src del proyecto se encuentra una subcarpeta test sobre la cual se crearon algunas pruebas unitarias para las cuatro paginas que tiene la aplicacion. 
 
  
 

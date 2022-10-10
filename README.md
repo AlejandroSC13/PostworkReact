@@ -9,7 +9,7 @@
 ![logo](./public/imagenes/logo-black.png)
 
 
-### ⚙Desarrollo
+## ⚙Desarrollo
 El proyecto esta desarrollado en React, utilizando funcionalidades como el uso de componentes, routing, estados, contextos, entre otras cosas. Se trata de una aplicacion de venta de alimentos en linea. 
 
 ##### 🧩Components 
@@ -37,7 +37,7 @@ Contiene todos los CSS Modules para estilizar componentes que se crearon para el
 Componentes visuales que se reutilizan en toda la aplicacion.
 
 
-### ✅Testing
+## ✅Testing
 Dentro de la carpeta src del proyecto se encuentra una subcarpeta test sobre la cual se crearon algunas pruebas unitarias para las cuatro paginas que tiene la aplicacion. 
 
  

@@ -1,3 +1,14 @@
+# Postwork React
+
+## Equipo 
+1. Andrea Paulina Rivera Aguilar
+2. Alejandro Saldana Contreras
+
+
+## Proyecto
+![logo](./public/imagenes/cut-logo.png)
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

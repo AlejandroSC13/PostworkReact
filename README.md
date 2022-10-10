@@ -6,7 +6,7 @@
 
 
 ## Proyecto
-![logo](./public/imagenes/cut-logo.png)
+![logo](./public/imagenes/logo-black.png)
   
 
 # Getting Started with Create React App

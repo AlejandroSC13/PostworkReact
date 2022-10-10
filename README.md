@@ -10,6 +10,8 @@
 
 
 ### ⚙Desarrollo
+El proyecto esta desarrollado en React, utilizando funcionalidades como el uso de componentes, routing, estados, contextos, entre otras cosas. Se trata de una aplicacion de venta de alimentos en linea. 
+
   
 
 # Getting Started with Create React App

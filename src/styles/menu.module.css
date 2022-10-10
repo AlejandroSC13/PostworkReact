@@ -1,0 +1,169 @@
+.menu-container {
+  padding: 10px 30px;
+}
+
+.menu {
+  background-color: white;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 8px 8px 20px #111;
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 10px;
+  
+}
+
+.menu h1{
+  margin-left: 20px;
+}
+
+.menu > article {
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.menu > article:last-child {
+  border: none;
+}
+
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-item > div:nth-child(1) > h1 {
+  margin: 0;
+}
+
+.menu-item > div:nth-child(1) > p {
+  margin: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-style: italic;
+}
+
+.menu-item > div:nth-child(1) > small {
+  color: #e53935;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.input-container > span {
+  font-weight: bold;
+}
+
+.input-container > input {
+  width: 35px;
+  font-size: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.card{
+  max-width: 23%;
+  margin: 10px;
+  box-shadow: 0 4px 10px 0 rgba(93,93,93,0.5);
+  border-radius: 20px;
+  background-color: white;
+  transition: 0.5s;
+}
+
+.card:hover{
+  box-shadow: 0 2px 5px 0 rgba(63, 192, 96, 0.8) ;
+}
+
+.body-card {
+  padding: 3px 3px;
+  height: 250px;
+  position: relative;
+}
+
+.body-card h3{
+  font-weight: 300;
+}
+
+.add-cart{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 3px;
+  position: absolute;
+  bottom: 0px;
+}
+
+
+.add-meal{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-bottom: 0.2rem;
+}
+
+.add-cart p{
+  margin-right: 6rem;
+}
+
+@media(max-width:1024px) {
+  .card{
+      flex: 25%;
+      max-width: 100%;
+  }
+}
+
+
+@media(max-width:800px) {
+  .card{
+      flex: 30%;
+      max-width: 100%;
+  }
+}
+
+
+@media(max-width:600px) {
+  .card{
+      flex: 100%;
+      max-width: 100%;
+  }
+}
+
+
+
+Button:hover{
+   cursor: pointer;
+}
+
+.cantidad{
+  width: 40px;
+  margin-left: 5px;
+}
+
+.layer{
+   background-color: transparent;
+   height: 100%;
+   width: 100%;
+   position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    color: transparent;
+    text-align: center;
+}
+
+
+.layercontainer{
+  position: relative
+}
+
+.layer:hover{
+  background-color: rgba(0,0,0, 0.6);
+  color: white;
+}

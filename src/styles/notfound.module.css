@@ -1,0 +1,23 @@
+.menu-container {
+    padding: 10px 30px;
+  }
+  
+  .menu {
+    background-color: white;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 8px 8px 20px #111;  
+  }
+  
+  .main{
+    padding: 10px;
+    text-align: center;
+  }
+
+  .main h1{
+      font-size:50px;
+      color: rgb(28, 122, 51);
+  }
+
+  

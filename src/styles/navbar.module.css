@@ -1,0 +1,54 @@
+.navbar {
+  font-family: 'Poppins', sans-serif;
+  height: 80px;
+  background-color:  rgb(63, 192, 96);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 40px;
+  color: white;
+}
+.navbar > figure {
+  background-color:rgb(28, 122, 51);
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0;
+  transition: all .2 ease-in-out;
+}
+
+.navbar > figure:hover{
+  transform: scale(1.1);
+}
+
+.navbar > figure > small {
+  background-color: rgb(63, 192, 96);
+  border-radius: 50%;
+  padding: 5px 10px;
+  margin-left: 10px;
+}
+.contenedorLocation{
+  background-color:rgb(28, 122, 51);
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0;
+}
+.cartLocation{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: center;
+}
+.location {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.search{
+  margin-left: 10px;
+}
+.cart:hover{
+  transform: scale(1.1);
+}

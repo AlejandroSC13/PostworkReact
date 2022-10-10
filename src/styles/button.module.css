@@ -1,0 +1,14 @@
+.btn {
+  background-color: rgb(28, 122, 51);
+  border: transparent;
+  color: white;
+  font-weight: bold;
+  padding: 8px 25px;
+  border-radius: 20px;
+  font-size: 13px;
+}
+
+.btn-square {
+  border-radius: 5px;
+}
+
